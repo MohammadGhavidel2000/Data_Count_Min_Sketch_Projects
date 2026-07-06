@@ -1,0 +1,16 @@
+# Project 3 — Network Pulse: Count–Min Sketch
+# Core algorithm uses only numpy + the Python standard library.
+# pandas/matplotlib are used for tables and plots; scipy is listed for
+# completeness (the notebook imports it and prints its version).
+#
+# Versions below are the ones the notebook was developed and tested against
+# (Python 3.14). Any reasonably recent versions should also work.
+numpy>=1.24
+pandas>=1.5
+matplotlib>=3.6
+scipy>=1.10
+
+# Needed only to execute the notebook headlessly / open it in Jupyter:
+notebook>=7.0
+nbconvert>=7.0
+ipykernel>=6.0
